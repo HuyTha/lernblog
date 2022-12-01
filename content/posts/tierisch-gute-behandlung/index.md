@@ -33,6 +33,10 @@ Bei der Notfallaufnahme angekommen, wird ein Hund behandelt. Der Hund ist von we
 
 ![Gian, Lehrling, führt uns durch die Klinik. (Foto:Huy Thai)](bildreportage1-kopie.jpg)
 
+> “Die meisten Fehler bei einer Operation entstehen durch Unachtsamkeit.”
+>
+> \-Franck Forterre, Neurochirurg 
+
 ### Nichts für schwache Nerven
 
 Gegen Mittag in der Tierklinik wird ein Hund an der Leber operiert. Wir sind bereits nach der Ankunft in der Klinik gefragt worden, ob wir bei dieser Operation dabei sein wollen. Deshalb werden wir von der Notaufnahme in die Operationsvorbereitung verlegt. Im Vorbereitungsraum stehen schon einige Leute, die den Hund medikamentös auf die Narkose vorbereiten. Fachleute verstehen unter diesem Vorgang die Prämedikation.  
@@ -56,6 +60,10 @@ Die Aufwachphase ist ebenfalls ein wichtiger Prozess der Operation. Das Tier mus
 ![Kylo, der Hund, wird auf die Operation vorbereitet. (Foto: Huy Thai)](bildreportage2-kopie.jpg)
 
 ![Die Chirurgen nehmen eine Leberprobe vom Hund. (Foto: Huy Thai)](bildreportage3-kopie.jpg)
+
+> “In der Tiermedizin ist es so, dass immer ein Besitzer hinter dem Tier steht.” 
+>
+> \-Franck Forterre, Neurochirurg 
 
 ### Traurige Erlösung
 
