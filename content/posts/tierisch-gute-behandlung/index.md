@@ -18,8 +18,6 @@ Hier werden täglich Tierleben gerettet – Die Kleintierklinik Uni Bern behande
 Die Kleintierklinik der Vetsuisse Fakultät Bern ist ein Tierspital für kleine Haustiere.  Die Klinik ist auf neuestem technischem Stand und behandelt die Tiere mit der bestmöglichen medizinischen Versorgung. Zudem werden in diesem Tierspital verschiedenste tierische Krankheiten untersucht und allenfalls mögliche Behandlungen entwickelt. Junge anstehende Tierärztinnen und Tierärzte werden in diesem Spital aus- und weitergebildet. Dementsprechend werden sie von den Tierärzten betreut und begleitet. 
 {{</box>}}
 
-\
-\
 Ein regnerischer Herbstmorgen. Im Bus läuft das Radio. Wir sind auf dem Weg in die Kleintierklinik an der Universität Bern. Pünktlich um acht Uhr morgens stehen wir an der Rezeption. Herzlich werden wir vom Empfangspersonal begrüsst. Nach fünfzehnminütiger Wartezeit werden wir vom Lehrling Gian Althaus begrüsst. Gian begleitet uns anschliessend zum Kleiderschrank, wo wir mit klinischen Kleidern versorgt werden. Als wir schliesslich umgezogen sind, zeigt uns Gian das ganze Gebäude gründlich.  
 
 Im Allgemeinen haben wir einen positiven ersten Eindruck. Das Gebäude ist modern und anschaulich. Dazu hat es zwei Stöcke mit unzähligen Räumen. Das ganze Gelände ist riesig, sodass es schwierig ist, die Übersicht zu behalten. Das Personal besteht mehrheitlich aus Frauen und alles sieht sehr organisiert aus. Jede Person hat etwas zu tun. Auf dem ganzen Gelände sind Angestellte zu sehen. Einige, die sich dort befinden, sind Studierende der Tiermedizin. Anstehende Tierärztinnen und Tierärzte werden in der Kleintierklinik aus- und weitergebildet. Dementsprechend erhalten auch Studentinnen und Studenten eine Ausbildung im Bereich Tiermedizin, damit sie sich auf ihren Beruf vorbereiten können. Ausserdem werden sie von Spezialistinnen und Spezialisten betreut und begleitet. 
@@ -34,7 +32,7 @@ Bei der Notfallaufnahme angekommen, wird ein Hund behandelt. Der Hund ist von we
 
 > “Die meisten Fehler bei einer Operation entstehen durch Unachtsamkeit.”
 >
-> \-Franck Forterre, Neurochirurg 
+> _Franck Forterre, Neurochirurg_
 
 ### Nichts für schwache Nerven
 
@@ -60,7 +58,7 @@ Die Aufwachphase ist ebenfalls ein wichtiger Prozess der Operation. Das Tier mus
 
 > “In der Tiermedizin ist es so, dass immer ein Besitzer hinter dem Tier steht.” 
 >
-> \-Franck Forterre, Neurochirurg 
+> _Franck Forterre, Neurochirurg_
 
 ### Traurige Erlösung
 
