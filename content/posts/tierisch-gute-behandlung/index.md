@@ -4,7 +4,7 @@ date = "2022-12-01"
 draft = false
 pinned = false
 tags = ["reportage"]
-image = "bildreportage3-kopie.jpg"
+image = "vorschaureportage.jpg"
 +++
 # Tierisch gute Behandlung
 
