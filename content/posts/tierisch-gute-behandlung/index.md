@@ -32,7 +32,7 @@ Bei der Notfallaufnahme angekommen, wird ein Hund behandelt. Der Hund ist von we
 
 > “Die meisten Fehler bei einer Operation entstehen durch Unachtsamkeit.”
 >
-> _Franck Forterre, Neurochirurg_
+> *Franck Forterre, Neurochirurg*
 
 ### Nichts für schwache Nerven
 
@@ -58,7 +58,7 @@ Die Aufwachphase ist ebenfalls ein wichtiger Prozess der Operation. Das Tier mus
 
 > “In der Tiermedizin ist es so, dass immer ein Besitzer hinter dem Tier steht.” 
 >
-> _Franck Forterre, Neurochirurg_
+> *Franck Forterre, Neurochirurg*
 
 ### Traurige Erlösung
 
@@ -74,4 +74,4 @@ Für alle ist das kurz ein Stressmoment, aber dass sich ein Tier während der Op
 
 ![Die Chirurgen bereiten sich auf die Operation der Katze vor. (Foto: Huy Thai)](bildreportage4-kopie.jpg)
 
-Nach der Operation ist der Tag in der Klinik für uns zu Ende und wir ziehen uns wieder um. Wir bedanken uns bei allen in der Klinik. Der Tag geht zu Ende und es ist langsam dunkel geworden. Wir fahren wieder mit dem Bus nach Hause. Schneller als gedacht geht ein aufregender und informativer Tag in der Kleintierklinik an der Universität Bern zu Ende. Wir haben viele Eindrücke sammeln und einen gute in den Beruf eines Tierarztes blicken können.
+Nach der Operation ist der Tag in der Klinik für uns zu Ende und wir ziehen uns wieder um. Wir bedanken uns bei allen in der Klinik. Der Tag geht zu Ende und es ist langsam dunkel geworden. Wir fahren wieder mit dem Bus nach Hause. Schneller als gedacht geht ein aufregender und informativer Tag in der Kleintierklinik an der Universität Bern zu Ende. Wir haben viele Eindrücke sammeln können und haben einen guten Einblick in den Beruf eines Tierarztes bekommen.
