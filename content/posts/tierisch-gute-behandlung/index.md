@@ -51,8 +51,6 @@ Der Hund schläft ziemlich schnell ein und die gesamte Stimmung ist recht entspa
 Prof. Dr. med. vet. Franck Forterre ist ein französischer Kleintierchirurg spezialisiert auf Neurochirurgie. Er arbeitet seit 2014 in der Kleintierklinik der Universität Bern und leitet die Abteilung der Chirurgie. Er studierte Tiermedizin an der Universität Toulouse. « In Frankreich gehört die Tiermedizin zu den Fächern der Hochschulen. Meine Eltern wollten, dass ich an einer Hochschule studiere, also studierte ich Tiermedizin als Kompromiss mit meinen Eltern», sagt Franck Forterre. \
 `{{</box>}}`
 
-
-
 Der Bauch ist mittlerweile aufgeschnitten und die Chirurgen sind gerade dabei, das Fett zu entfernen, damit sie ein Stück von der Leber abschneiden können. Alles läuft nach Plan und die Operation nähert sich dem Ende. Die Chirurgen nehmen zwei Proben der Leber und sprechen sich mit einem Team der inneren Medizin gut ab. Beide Proben werden noch während der Operation von einer Forscherin abgeholt. Der Verdacht besteht, dass sich Parasiten in der Leber befinden. Die Chirurgen müssen nur noch die offene Stelle am Bauch zunähen und schon kann der Hund auf die Aufwachstation, wo er sich nach der Operation erholen wird.  Die Operation nach mehr als einer Stunde abgeschlossen.  
 
 Die Aufwachphase ist ebenfalls ein wichtiger Prozess der Operation. Das Tier muss gut überwacht werden, da sich das Tier in der Aufwachstation wieder sammelt und weiter mit Medikamenten versorgt wird. Ab und zu befindet sich in dieser Station eine Sauerstoffbox, in der das Tier mit ausreichend Wärme und Sauerstoff versorgt wird, damit die Wunden besser heilen.  
