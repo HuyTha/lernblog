@@ -3,6 +3,7 @@ title = "Tierisch gute Behandlung"
 date = "2022-12-01"
 draft = false
 pinned = false
+tags = ["blog"]
 image = ""
 +++
 # Tierisch gute Behandlung
