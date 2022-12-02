@@ -14,7 +14,7 @@ Wie läuft eine Hundeoperation? Wie kommt es zur Einschläferung? Wir lernen die
 
 Hier werden täglich Tierleben gerettet – Die Kleintierklinik Uni Bern behandelt jedes Jahr rund 6000 Katzen und Hunde. Die Kleintiere werden in der Klinik jeden Tag mit der bestmöglichen medizinischen Versorgung behandelt und operiert. Da die Kleintierklinik an der Universität Bern mehr medizinische Mittel zur Verfügung hat als eine private Tierklinik, kommen viele Tiere von anderen privaten Kliniken. So werden täglich Tiere für komplizierte Operationen von einer privaten Klinik zur Kleintierklinik Universität Bern weitergeleitet. Dadurch dass in der Klinik viele Tiere operiert werden, ist der Alltag für die Angestellten meistens stressig.  
 
-{{<box title="Kleintierklinik an der Universität Bern>}}
+{{<box title="Kleintierklinik an der Universität Bern">}}
 Die Kleintierklinik der Vetsuisse Fakultät Bern ist ein Tierspital für kleine Haustiere.  Die Klinik ist auf neuestem technischem Stand und behandelt die Tiere mit der bestmöglichen medizinischen Versorgung. Zudem werden in diesem Tierspital verschiedenste tierische Krankheiten untersucht und allenfalls mögliche Behandlungen entwickelt. Junge anstehende Tierärztinnen und Tierärzte werden in diesem Spital aus- und weitergebildet. Dementsprechend werden sie von den Tierärzten betreut und begleitet. 
 {{</box>}}
 
