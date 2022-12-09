@@ -8,6 +8,4 @@ description = ""
 
 ## My Name
 
-mail@example.org
-
-Here should be some info about me...
+huy.thai@mygymer.ch
