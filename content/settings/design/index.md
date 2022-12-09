@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+icon = "/media/pexels-hristo-fidanov-1252890-kopie.jpg"
+logo = "/media/pexels-hristo-fidanov-1252890-kopie.jpg"
+image = "/media/pexels-hristo-fidanov-1252890-kopie.jpg"
 color = "#5d9fbd"
 +++
