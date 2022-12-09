@@ -1,11 +1,13 @@
 +++
-title = "Huy Thai"
+title = "Über mich..."
 draft = false
 image = ""
 description = ""
 +++
-![](/img/default-author.jpg)
+![]()
 
-## My Name
+## Huy Thai
+
+Mein Name ist Huy Thai. Ich bin ein Schüler aus dem Gymnasium Kirchenfeld der Klasse M24a.
 
 huy.thai@mygymer.ch
