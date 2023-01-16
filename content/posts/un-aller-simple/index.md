@@ -19,8 +19,7 @@ Un attaché humanitair l‘accompagné aux Maroc. Le voyage n’est pas simple.
 
 ### Citation
 
-« On va te ramener chez toi, Aziz »\
--Pignol page 42
+« On va te ramener chez toi, Aziz » -Pignol page 42.                                                                                                                                                          Cette citation expliques bien ce qui ce passe dans le livre. Aziz est renvoie chez « lui » pour un crime qu’il na pas commit. Ce voyage n’est pas simple.
 
 ### Avis
 
