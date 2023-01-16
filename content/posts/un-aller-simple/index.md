@@ -4,6 +4,7 @@ date = "2023-01-16"
 draft = false
 pinned = false
 tags = ["französisch", "lektüre", "frankophonie"]
+image = "un-aller-simple-291711010.jpg"
 +++
 # Un aller simple
 
